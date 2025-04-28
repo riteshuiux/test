@@ -9,7 +9,7 @@
                {
                   "agentId":"IOD1",
                   "agentNumber":1,
-                  "agentName":"Idea & Opportunity Discovery Agent",
+                  "agentName":"Idea & Opportunity Discovery",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -30,7 +30,7 @@
                {
                   "agentId":"UIR2",
                   "agentNumber":2,
-                  "agentName":"User Insights & Research Agent",
+                  "agentName":"User Insights & Research",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -51,7 +51,7 @@
                {
                   "agentId":"BIE3",
                   "agentNumber":3,
-                  "agentName":"Business & Impact Evaluation Agent",
+                  "agentName":"Business & Impact Evaluation",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -72,7 +72,7 @@
                {
                   "agentId":"PRD4",
                   "agentNumber":4,
-                  "agentName":"PRD Generation Agent",
+                  "agentName":"PRD Generation",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -93,7 +93,7 @@
                {
                   "agentId":"DPA5",
                   "agentNumber":5,
-                  "agentName":"Development Planning & Assignment Agent",
+                  "agentName":"Development Planning & Assignment",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -114,7 +114,7 @@
                {
                   "agentId":"QAT6",
                   "agentNumber":6,
-                  "agentName":"QA & Test Plan Generator Agent",
+                  "agentName":"QA & Test Plan Generator",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
@@ -135,7 +135,7 @@
                {
                   "agentId":"GTM7",
                   "agentNumber":7,
-                  "agentName":"Go-to-Market Content Agent",
+                  "agentName":"Go-to-Market Content",
                   "agentType":"Product Lifecycle AI Agent",
                   "agentTypeBorderColor":"#FE900D",
                   "agentTypeColor":"#FE900D",
